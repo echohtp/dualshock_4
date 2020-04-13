@@ -1,3 +1,4 @@
+<div style="width:90%;">
 <div id="tv-user-info-e8860"></div>
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
 <script type="text/javascript">
@@ -31,5 +32,4 @@ new TradingView.IdeasStreamWidget({
 "username": "xBanana"
 });
 </script>
-
-
+</div>
