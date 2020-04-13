@@ -41,7 +41,7 @@ params:
   - title: Chat now
     url: https://t.me/Flash_Trading
     button: true
-  section5: false
+  section5: true
   
   # footer:
   #   # Logo (from /images/logos/___)
