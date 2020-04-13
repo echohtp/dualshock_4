@@ -1,6 +1,3 @@
-
-
-<!-- TradingView Widget BEGIN -->
 <div id="tv-user-info-e8860"></div>
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
 <script type="text/javascript">
@@ -12,7 +9,6 @@ new TradingView.UserInfoWidget({
   "locale": "en"
 });
 </script>
-<!-- TradingView Widget END -->
 
 
 <div id="tv-ideas-stream-21f68"></div>
