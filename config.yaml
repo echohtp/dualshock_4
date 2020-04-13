@@ -2,7 +2,7 @@ baseURL: https://flashtrading.xyz
 languageCode: en-us
 title: Flash Trading
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-129297535-21 # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
 - taxonomy
