@@ -41,7 +41,7 @@ params:
   - title: Staff Picks
     sublinks:
     - title: xBanana
-      url: /xBanana
+      url: /posts/xBanana
     - title: Lord Raiden
       url: /Lord-Raiden
     
