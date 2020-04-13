@@ -1,4 +1,4 @@
-<div style="width:90%;">
+<div style="width:90%; margin-left: 5%; margin-right: 5%;">
 <div id="tv-user-info-e8860"></div>
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
 <script type="text/javascript">
