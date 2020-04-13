@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<svg width="1230" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#344358;}
+	.st1{fill:#F39208;}
+	.st2{fill:#FCC010;}
+	.st3{fill:#F49619;}
+	.st4{fill:#EC630E;}
+	.st5{fill:#CBEAFC;}
+	.st6{fill:#77C2E0;}
+	.st7{fill:#F9DE6A;}
+	.st8{fill:#C6781A;}
+	.st9{fill:#010202;}</style>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="Helvetica" font-size="3" font-weight="normal" id="svg_1" stroke-width="0" text-anchor="middle" transform="matrix(78.4194 0 0 72.0102 -16813.3 -5877.9)" x="221.122789" xml:space="preserve" y="84.929822">FL   SH</text>
+  <ellipse cx="1006.5" cy="109.5" fill="#ff7f00" id="svg_3" rx="38" ry="38" stroke-width="0"/>
+  <ellipse cx="1047.5" cy="211.5" fill="#007fff" id="svg_6" rx="29" ry="29" stroke-width="0"/>
+  <ellipse cx="1101.5" cy="146.5" fill="#ff007f" id="svg_8" rx="20" ry="20" stroke-width="0"/>
+  <rect fill="#00ff00" height="51" id="svg_12" stroke-width="0" width="13" x="467.5" y="104.5"/>
+  <rect fill="#00ff00" height="92" id="svg_15" stroke-width="0" width="2" x="472.5" y="83.5"/>
+  <rect fill="#00ff00" height="51" id="svg_17" stroke-width="0" width="13" x="487" y="65"/>
+  <rect fill="#00ff00" height="92" id="svg_16" stroke-width="0" width="2" x="492" y="44"/>
+  <rect fill="#00ff00" height="51" id="svg_19" stroke-width="0" width="13" x="447" y="145"/>
+  <rect fill="#00ff00" height="92" id="svg_18" stroke-width="0" width="2" x="452" y="124"/>
+  <rect fill="#00ff00" height="51" id="svg_21" stroke-width="0" width="13" x="428" y="185"/>
+  <rect fill="#00ff00" height="92" id="svg_20" stroke-width="0" width="2" x="433" y="164"/>
+  <rect fill="#ff0000" height="51" id="svg_29" stroke-width="0" width="13" x="527" y="104.5"/>
+  <rect fill="#ff0000" height="92" id="svg_28" stroke-width="0" width="2" x="532" y="83.5"/>
+  <rect fill="#ff0000" height="51" id="svg_27" stroke-width="0" width="13" x="506.5" y="65"/>
+  <rect fill="#ff0000" height="92" id="svg_26" stroke-width="0" width="2" x="511.5" y="44"/>
+  <rect fill="#ff0000" height="51" id="svg_25" stroke-width="0" width="13" x="546.5" y="145"/>
+  <rect fill="#ff0000" height="92" id="svg_24" stroke-width="0" width="2" x="551.5" y="124"/>
+  <rect fill="#ff0000" height="51" id="svg_23" stroke-width="0" width="13" x="567.5" y="185"/>
+  <rect fill="#ff0000" height="92" id="svg_22" stroke-width="0" width="2" x="572.5" y="164"/>
+ </g>
+</svg>

@@ -1,0 +1,55 @@
+baseURL: https://flashtrading.xyz
+languageCode: en-us
+title: Flash Trading
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/icon.svg
+    link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Flash Trading
+    # Hero subtitle (optional)
+    subtitle: We're building next generation crypto finance tools. Sign up to get early access.
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: phone_stock.png
+    # Footer logos (from static/images/logos/clients/___.svg)
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Chat now
+    url: https://t.me/Flash_Trading
+    button: true
+  section5: false
+  
+  # footer:
+  #   # Logo (from /images/logos/___)
+  #   logo: fresh-white-alt.svg
+  #   # Social Media Title
+  #   socialmediatitle: Follow Us
+  #   # Social media links (GitHub, Twitter, etc.). All are optional.
+  #   socialmedia:
+  #   - link: https://twitter.com/lucperkins
+  #     icon: twitter
+
