@@ -16,8 +16,8 @@ new TradingView.UserInfoWidget({
 <script type="text/javascript">
 new TradingView.IdeasStreamWidget({
 "container_id": "tv-ideas-stream-21f68",
-"startingCount": 1,
-"width": "800px",
+"startingCount": 5,
+"width": "100%",
 "height": 400,
 "mode": "integrate",
 "bgColor": "#f2f5f8",
