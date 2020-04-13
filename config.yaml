@@ -38,10 +38,13 @@ params:
     # Footer logos (from static/images/logos/clients/___.svg)
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  # - title: xBanana
-  #   url: /xBanana
-  # - title: Lord Raiden
-  #   url: /Lord_Raiden
+  - title: Staff Picks
+    sublinks:
+    - title: xBanana
+      url: /xBanana
+    - title: Lord Raiden
+      url: /Lord-Raiden
+    
   - title: Chat now
     url: https://t.me/Flash_Trading
     button: true

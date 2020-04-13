@@ -1,6 +1,4 @@
-{{ define "main" }}
 
-{{ end }}
 
 <div id="tv-ideas-stream-21f68"></div>
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
